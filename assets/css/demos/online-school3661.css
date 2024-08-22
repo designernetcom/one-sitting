@@ -256,7 +256,7 @@
   background-color: #F3F3F3;
 }
 .onls-why__items {
-  background-color: var(--regal-white);
+  /* background-color: var(--regal-white); */
 }
 .onls-why__brief {
   color: var(--regal-grey-v4);
